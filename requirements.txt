@@ -1,0 +1,9 @@
+fastapi
+gunicorn
+uvicorn
+Jinja2
+pytest
+curio # pytest
+httpx # pytest
+requests
+pre-commit

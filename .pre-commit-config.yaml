@@ -8,8 +8,9 @@ repos:
 
 -   repo: local
     hooks:
-    -   id: pytest-check
-        name: PyTest Runner
+    -   id: pytest
+        name: PyTest
+        types: [python]
         entry: pytest
         language: system
         pass_filenames: false

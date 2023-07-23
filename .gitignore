@@ -1,5 +1,6 @@
 bin/
 include/
+lib64
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -18,7 +19,7 @@ downloads/
 eggs/
 .eggs/
 lib/
-lib64/
+lib64/*
 parts/
 sdist/
 var/

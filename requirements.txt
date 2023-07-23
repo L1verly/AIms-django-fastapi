@@ -7,3 +7,9 @@ curio # pytest
 httpx # pytest
 requests
 pre-commit
+python-dotenv
+pydantic
+pydantic-settings
+python-multipart
+aiofiles
+pillow
